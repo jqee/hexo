@@ -5,10 +5,12 @@ cover: false
 toc: true
 mathjax: true
 date: 2019-09-11 15:46:04
-tags: centos yapi
+tags: 
+	- centos
+	- yapi
 password:
 summary: 记录在公司安装yapi服务
-categories:
+categories: Markdown
 author: weibing
 ---
 
